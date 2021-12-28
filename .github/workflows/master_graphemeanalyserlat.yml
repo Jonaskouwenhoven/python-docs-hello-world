@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'graphemeanalyserlat'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3592BC32D93546ABA531AEA223A2F8FB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_10E4DDF8B5EE4ADC8E04453FBC7936B3 }}
